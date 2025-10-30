@@ -1,4 +1,4 @@
-![](images/screenshot4.png)
+
 # 📈 Stock Price Prediction: From Market Crash to Machine Learning
 
 A lot of people in India invest in stocks, hoping to build a second income. What many don’t realize early on is how risky it can be without proper guidance.
