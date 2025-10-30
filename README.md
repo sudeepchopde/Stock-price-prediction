@@ -74,7 +74,8 @@ Sudden drops in stock prices were often due to **stock splits**, not market cras
 ![Model Performance](images/model-performance.png)
 
 ### Stock Split Adjustment Example
-![Stock Split Adjustment](images/stock-split-adjustment.png)
+![Stock Split Adjustment](images/Screenshot5.png)
+![](images/Screenshot6.png)
 
 ---
 
