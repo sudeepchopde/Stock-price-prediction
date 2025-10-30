@@ -69,15 +69,17 @@ Sudden drops in stock prices were often due to **stock splits**, not market cras
 
 ## 📷 Sample Visuals
 
-> Replace the image paths below with your actual file paths (e.g., `/images/f1-score-comparison.png`)
 
-### Model Performance Comparison
-![Model Performance](images/model-performance.png)
 
+### Model Performance 
+![Model Performance](images/results.png)
+
+As we can see the f1 score is 0.61 but it fails to detect sideways class. if you balance out the class it detects the sideways class but the performance decreases.
 ### Stock Split Adjustment Example
 ![Stock Split Adjustment](images/Screenshot5.png)
 ![](images/Screenshot6.png)
 
+- Bajaj auto does not have a stock split hence the graph is unchanged
 ---
 
 ## 🤝 Let’s Connect
