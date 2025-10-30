@@ -1,5 +1,6 @@
 
 # 📈 Stock Price Prediction: From Market Crash to Machine Learning
+![](images/Screenshot4.png)
 
 A lot of people in India invest in stocks, hoping to build a second income. What many don’t realize early on is how risky it can be without proper guidance.
 
@@ -63,7 +64,7 @@ Sudden drops in stock prices were often due to **stock splits**, not market cras
 ### 📌 API Limitations
 - Indian stock APIs don’t reliably return stock split data
 - Manual adjustments still required for accurate modeling
-
+![API limitations](images/Screenshot7.png)
 ---
 
 ## 📷 Sample Visuals
